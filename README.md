@@ -1,4 +1,4 @@
-# Darkside Chronicles 60fps Code
+# Darkside Chronicles 60fps Code (JP)
 ダークサイドクロニクルズ（SBDJ08）の60fps化ARコード。
 
 日本版が無いようだったのでチートマネージャで見つけました。Dolphinエミュレーター用です。
